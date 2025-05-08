@@ -11,12 +11,22 @@ I'm just a programmer who enjoys sharing and spreading knowledge about coding.
   <img src="./assets/fix_bug.gif" alt="Daily bug fix" height="180px" />
 </div>
 
+### ⚙️ GitHub Analytics
+
+<p style="display: flex;justify-content: space-between;">
+  <a href="https://github.com/daungvilay-dev/daungvilay-dev"> 
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=daungvilay-dev&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/daungvilay-dev/daungvilay-dev"> 
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daungvilay-dev&show_icons=true&layout=compact&theme=dracula"/>
+  </a>
+</p>
 
 ## Content Stats
 
 Bobbie Channel
 
-[![Youtube Mikelopster](https://youtube-stats-card.vercel.app/api?channelid=UCiihnx5gbztQm1TJkKOxxow&theme=dark)](https://www.youtube.com/@bobbiechannel864)
+[![Youtube Bobbie Chanel](https://youtube-stats-card.vercel.app/api?channelid=UCiihnx5gbztQm1TJkKOxxow&theme=dark)](https://www.youtube.com/@bobbiechannel864)
 
  
 ## Contact me
