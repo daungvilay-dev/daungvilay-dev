@@ -2,6 +2,16 @@
 
 I'm just a programmer who enjoys sharing and spreading knowledge about coding.
 
+### 👨🏻‍💻 About Me 
+- website: [https://devfiw.com](https://devfiw.com)
+- email: daungvilay.m@gmail.com
+
+<div style="display: flex;justify-content: space-between;">
+  <img src="./assets/coding.gif" alt="Night Coding" height="180px" />
+  <img src="./assets/fix_bug.gif" alt="Daily bug fix" height="180px" />
+</div>
+
+
 ## Content Stats
 
 Bobbie Channel
