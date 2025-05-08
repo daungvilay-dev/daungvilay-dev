@@ -29,10 +29,10 @@ Bobbie Channel
 
 <p style="display: flex;justify-content: space-between;">
   <a href="https://github.com/daungvilay-dev/daungvilay-dev"> 
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=daungvilay-dev&show_icons=true&theme=dracula" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=daungvilay-dev&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/daungvilay-dev/daungvilay-dev"> 
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daungvilay-dev&show_icons=true&layout=compact&theme=dracula"/>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daungvilay-dev&show_icons=true&layout=compact&theme=dracula"/>
   </a>
 </p>
 
